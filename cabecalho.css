@@ -9,3 +9,13 @@
     border-bottom: 1px solid#103d4a;
     padding-bottom: .5em;
 }
+
+.cabecalho-logo {
+    margin-bottom: .2em;
+}
+
+.cabecalho-logo-img {
+    margin: 0 auto;
+    display: block;
+    transition: filter .3s;
+}
