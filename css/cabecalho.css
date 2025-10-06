@@ -46,3 +46,13 @@
 .cabecalho-nav-item-a:focus {
     text-decoration: underline;
 }
+
+@media (min-windth: 830px) {
+
+    .cabecalho {
+        border-bottom: 0;
+        padding-bottom: 0;
+    }
+
+    .cabecalho
+}
