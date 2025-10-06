@@ -54,5 +54,7 @@
         padding-bottom: 0;
     }
 
-    .cabecalho
+    .cabecalho-logo {
+        float: left;
+    }
 }
