@@ -57,4 +57,8 @@
     .cabecalho-logo {
         float: left;
     }
+    .cabecalho-nav {
+        float: right;
+        margin-top: 1em;
+    }
 }
