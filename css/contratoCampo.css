@@ -1,0 +1,14 @@
+
+.contatoCampo {
+    margin: .8em auto;
+    max-width: 600px;
+    position: relative;
+}
+
+.contatoCampo-label:before {
+    content: '';
+    vertical-align: middle;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
