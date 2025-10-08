@@ -34,4 +34,9 @@
     opacity: 0;
 }
 
-.contatoCampo-icone
+.contatoCampo-icone {
+    position: absolute;
+    left: -2;
+    top: 2.5em;
+    width: 1.5em;
+}
