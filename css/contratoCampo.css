@@ -40,3 +40,11 @@
     top: 2.5em;
     width: 1.5em;
 }
+
+.contatoCampo label,
+.contatoCampo input: not([type='checkbox']),
+.contatoCampo textarea {
+    display : block;
+    width: 100%;
+    text-aling:left;
+}
