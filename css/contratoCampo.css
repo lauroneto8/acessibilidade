@@ -23,5 +23,5 @@
 .contatoCampo-checkbox:checked + .contatoCampo-label:before {
     content: 'x';
     color: #fff;
-    background-image: radial-gradient();
+    background-image: radial-gradient(cicle, #);
 }
