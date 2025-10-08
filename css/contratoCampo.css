@@ -19,3 +19,7 @@
     line-height: 1;
     transition: .2s ease-in;
 }
+
+.contatoCampo-checkbox:checked + .contatoCampo-label:before {
+    
+}
