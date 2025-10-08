@@ -31,5 +31,7 @@
     /* visibility: hidden*/
     left: -9999px;
     position: absolute;
-    
+    opacity: 0;
 }
+
+.contatoCampo-icone
