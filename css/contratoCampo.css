@@ -95,3 +95,14 @@
     position: relative;
 }
 
+.contatoCampo--sucesso::before {
+    content: '';
+    display: inline-block;
+    width: 33px;
+    height: 32px;
+    position: absolute;
+    z-index: 1;
+    right: .4em;
+    transform: translateY(112%) scale(.65);
+    background-image: url();
+}
