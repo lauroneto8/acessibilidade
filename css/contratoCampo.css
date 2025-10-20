@@ -88,3 +88,10 @@
      background-color: #fff;
      position: relative;
 }
+
+.contatoCampo .contatoCampo--validouErrou {
+    border: 2px solid #FF0000;
+    background-color: #fff;
+    position: relative;
+}
+
