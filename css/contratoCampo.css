@@ -84,5 +84,7 @@
 }
 
 .contatoCampo .contatoCampo--validouFoi {
-    
+     border: 2px solid #219653;
+     background-color: #fff;
+     position: relative;
 }
