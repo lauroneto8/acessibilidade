@@ -12,5 +12,7 @@
     background-color: #fff;
     border: 1px solid #8d8d8d;
     padding: 3em 1.5em 1.5em 1.5em;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .5);
+    position: fixed;
     
 }
