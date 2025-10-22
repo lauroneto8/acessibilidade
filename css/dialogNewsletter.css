@@ -36,3 +36,8 @@
     overflow: hidden;
     background-color: rgba(0, 0, 0, .4);
 }
+
+.overlayDialog + .dialogNewsletter {
+    display: block;
+    transform: translate(-50%, -50%);
+}
