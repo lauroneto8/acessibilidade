@@ -14,5 +14,11 @@
     padding: 3em 1.5em 1.5em 1.5em;
     box-shadow: 0 0 5px rgba(0, 0, 0, .5);
     position: fixed;
+    display: inline-block;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -52%);
+    z-index: 3;
+    transition: .3s ease-in;
     
 }
