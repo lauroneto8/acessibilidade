@@ -65,5 +65,9 @@
     border-radius: 8px;
     border: 1px solid #5e5e5e;
     padding: 8px;
-    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    min-width: 245px;
 }
+
