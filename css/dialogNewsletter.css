@@ -41,3 +41,29 @@
     display: block;
     transform: translate(-50%, -50%);
 }
+
+.dialogNewsletter-titulo {
+    font-size: 1.8em;
+    line-height: 1;
+}
+
+.dialogNewsletter-texto {
+    font-size: 1em;
+    margin-bottom: 1..5em;
+    margin-top: 1em;
+    font-weight: normal;
+}
+
+.dialogNewsletter-label {
+    position: absolute;
+    z-index: -1;
+    left: -9999px;
+}
+
+.dialogNewsletter-campo {
+    font-size: 1em;
+    border-radius: 8px;
+    border: 1px solid #5e5e5e;
+    padding: 8px;
+    margin-top: 10px;
+}
