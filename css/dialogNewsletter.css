@@ -72,5 +72,9 @@
 }
 
 .dialogNewsletter-btn {
+    vertical-align: top;
+    text-indent: -9999px;
+    border-radius: 8px;
+    border: 1px solid #ff1242;
     
 }
