@@ -82,3 +82,25 @@
     background: url(/acessibilidade/img/email.png) no-repeat center;
     transition: .2s ease-in;
 }
+
+.dialogNewsletter-btn:hover,
+.dialogNewsletter-btn:focus {
+    background-color: #eb5757;
+    cursor: pointer;
+    background-image: url(/acessibilidade/img/email-hover.png);
+}
+
+.dialogNewsletter-fechar {
+    position: absolute;
+    background-color: transparent;
+    transform: translate(50%, 50%) scale(1.4);
+    top: -5px;
+    right: 25px;
+    width: 32px;
+    height: 32px;
+    border: 0;
+    border: 1px solid;
+    overflow: hidden;
+    color: transparent;
+    font-size: 0;
+}
