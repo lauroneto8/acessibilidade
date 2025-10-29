@@ -118,3 +118,25 @@
     font-size: 20px;
     font-weight: bold;
 }
+
+.dialogNewsletter-fechar:hover:before,
+.dialogNewsletter-fechar:focus::before {
+    color: #ce3434;
+    cursor: pointer;
+}
+
+@media (min-width: 830px) {
+    .dialogNewsletter-body {
+        width: 533px;
+    }
+    .dialogNewsletter-form {
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .dialogNewsletter-campo{
+        flex-basis: 80%;
+    }
+    .dialogNewsletter-btn {
+        flex-basis: ;
+    }
+}
