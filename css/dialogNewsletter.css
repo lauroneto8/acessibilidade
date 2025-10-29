@@ -137,6 +137,7 @@
         flex-basis: 80%;
     }
     .dialogNewsletter-btn {
-        flex-basis: ;
+        flex-basis: 20%;
+        height: 3.1em;
     }
 }
